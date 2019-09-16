@@ -6,8 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d11ad2ae-d20d-4b96-8552-5e09b1089ddd" name="Default" comment="add CxcTest.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test" afterDir="false" />
+    <list default="true" id="d11ad2ae-d20d-4b96-8552-5e09b1089ddd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CxcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CxcTest.java" afterDir="false" />
     </list>
@@ -45,20 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CxcTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CxcTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CxcTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -81,8 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/CxcTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/test" />
+        <option value="$PROJECT_DIR$/src/main/java/CxcTest.java" />
       </list>
     </option>
   </component>
@@ -355,7 +345,7 @@
       <workItem from="1567947640087" duration="3531000" />
       <workItem from="1568182670858" duration="1951000" />
       <workItem from="1568185041082" duration="1260000" />
-      <workItem from="1568599799495" duration="1701000" />
+      <workItem from="1568599799495" duration="1956000" />
     </task>
     <task id="LOCAL-00001" summary="add CxcTest.java">
       <created>1568600969656</created>
@@ -364,11 +354,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568600969656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add CxcTest.java">
+      <created>1568601539593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568601539593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10311000" />
+    <option name="totallyTimeSpent" value="10566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -526,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CxcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14894">
@@ -544,6 +534,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CxcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
